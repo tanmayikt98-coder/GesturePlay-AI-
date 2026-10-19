@@ -1,3 +1,1 @@
-"""AI Hand Gesture Racing Controller."""
-
-__version__ = "2.0.0.dev0"
+"""Automated tests for the controller."""
